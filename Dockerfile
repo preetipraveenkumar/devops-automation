@@ -1,5 +1,5 @@
-# FROM mcr.microsoft.com/openjdk/jdk
-FROM openjdk:11
+FROM mcr.microsoft.com/openjdk/jdk
+#FROM openjdk:11
 # COPY . /usr/src/myapp
 # WORKDIR /usr/src/myapp
 # RUN javac Main.java
