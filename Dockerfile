@@ -1,4 +1,4 @@
-From hello-world:nanoserver-ltsc2022
+From hello-world:latest
 #FROM mcr.microsoft.com/openjdk/jdk
 #FROM openjdk:11
 # COPY . /usr/src/myapp
