@@ -1,4 +1,5 @@
-FROM mcr.microsoft.com/openjdk/jdk
+From hello-world:nanoserver-ltsc2022
+#FROM mcr.microsoft.com/openjdk/jdk
 #FROM openjdk:11
 # COPY . /usr/src/myapp
 # WORKDIR /usr/src/myapp
